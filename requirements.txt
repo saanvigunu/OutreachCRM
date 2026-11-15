@@ -1,0 +1,1 @@
+# no dependencies - Outreach CRM runs on the Python 3.8+ standard library only
